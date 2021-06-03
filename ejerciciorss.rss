@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+    <title>La Tierra y eso</title>
+    <description>
+     Aqui se habla de los pobremas ecológicos actuales y cosas varias sobre la biodiversidad
+    </description>
+    <link>https://miblog.sitio.es</link>
+    <item>
+        <title>El calor aumenta la mortalidad</title>
+        <description>
+        El aumento drástico de la temperatura causa auténticos 
+        estragos en nuestro organismo. Por ejemplo, los pulmones y el corazón
+        de las víctimas de olas de calor se someten a un importante sobreesfuerzo
+        para mantener la presión de unos vasos sanguíneos que se dilatan cuando
+        nos sometemos a una intensa subida de las temperaturas. Si no se pone 
+        remedio, la tensión arterial acabará cayendo drásticamente, lo que puede
+        dar lugar a mareos y dificultades en el habla. Luego, el colapso del
+        sistema circulatorio puede desencadenar un fallo de los órganos vitales,
+        como la vejiga, el corazón o los riñones, lo que puede provocar en casos
+        extremos la muerte.
+        </description>
+    </item>
+    <item>
+        <title>Los niveles de oxígeno de los lagos templados están en declive</title>
+        <description>
+        Al igual que el oxígeno de la atmósfera resulta indispensable para sostener
+        la vida en la Tierra y aunque pueda resultar menos intuitivo, el 
+        disuelto en el agua cumple la misma función en los ecosistemas acuáticos.
+        Así, de la concentración de oxígeno disuelto en los sistemas acuáticos
+        dependen el equilibrio de nutrientes, la calidad del agua potable, las
+        emisiones de gases de efecto invernadero o el estado de la biodiversidad.
+        Y si bien la pérdida de oxígeno en los océanos -de los cuales por ejemplo
+        sabemos que procede hasta casi el 85% del oxígeno que cada año se libera
+        a la atmósfera- es un fenómeno bastante bien documentado, los cambios en
+        las concentraciones de oxígeno disuelto en los lagos se antoja un mecanismo
+        mucho menos comprendido, en parte debido a la falta de estudios a largo plazo
+        y a gran escala.
+        </description>
+    </item>
+    <item>
+        <title>Una nueva mirada a la biodiversidad de las aves</title>
+        <description>
+        En los campos de la ecología, la biología evolutiva y la conservación,
+        las estimaciones de abundancia de organismos resultan esenciales. Poner
+        números a las cosas ayuda a darles forma, entenderlas, anticipar 
+        problemas, y en el caso de vernos inmersos en uno de ellos, darles solución.
+        Sin embargo, cuando se trata de organismos vivos, más si tienen alas, el asunto
+        se convierte en un reto que requiere de una gran cantidad de recursos y no menos
+        tiempo.
+        </description>
+    </item>
+    </channel>
+    </rss>
